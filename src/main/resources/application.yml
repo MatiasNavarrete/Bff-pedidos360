@@ -13,4 +13,4 @@ spring:
       resourceserver:
         jwt:
           issuer-uri: https://login.microsoftonline.com/095cf233-eca7-4e46-b9bf-8113574cb7ed/v2.0
-          audiences: api://mi-bff-client-id
+          audiences: api://80da648c-e621-43bd-b7ba-e4d2c0ea6a99
